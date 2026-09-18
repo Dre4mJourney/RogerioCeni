@@ -1,0 +1,10 @@
+body {background-color: gray;}
+.RogérioCeni {text-align: center;color:black;}
+p {text-align: center;color: black;}
+.Titulos {text-align: center;color: white;}
+ol {list-style-type: none;list-style-position: outside;color: white;text-align: center;}
+.Números {text-align: center;color: red;}
+table {;color: white;border-color: white;}  
+.Ceni {display: block;
+margin-left: auto;margin-right: auto;}      
+
